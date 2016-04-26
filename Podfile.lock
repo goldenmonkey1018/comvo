@@ -1,0 +1,110 @@
+PODS:
+  - AFNetworking (2.4.0):
+    - AFNetworking/NSURLConnection (= 2.4.0)
+    - AFNetworking/NSURLSession (= 2.4.0)
+    - AFNetworking/Reachability (= 2.4.0)
+    - AFNetworking/Security (= 2.4.0)
+    - AFNetworking/Serialization (= 2.4.0)
+    - AFNetworking/UIKit (= 2.4.0)
+  - AFNetworking/NSURLConnection (2.4.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.4.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.4.0)
+  - AFNetworking/Security (2.4.0)
+  - AFNetworking/Serialization (2.4.0)
+  - AFNetworking/UIKit (2.4.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - CocoaLumberjack (2.2.0):
+    - CocoaLumberjack/Default (= 2.2.0)
+    - CocoaLumberjack/Extensions (= 2.2.0)
+  - CocoaLumberjack/Core (2.2.0)
+  - CocoaLumberjack/Default (2.2.0):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.2.0):
+    - CocoaLumberjack/Default
+  - DDProgressView (0.1)
+  - EZAudio (0.0.6)
+  - Fabric (1.6.1)
+  - GPUImage (0.1.7)
+  - IQKeyboardManager (3.3.4)
+  - JSQMessagesViewController (7.2.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - JXHTTP (2.0.2)
+  - Masonry (0.6.3)
+  - MBProgressHUD (0.9.1)
+  - OHAttributedLabel (3.5.5)
+  - PubNub (4.2.2):
+    - CocoaLumberjack (= 2.2.0)
+    - PubNub/Core (= 4.2.2)
+  - PubNub/Core (4.2.2):
+    - CocoaLumberjack (= 2.2.0)
+  - SBJson (4.0.2)
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SKTagView (0.7):
+    - Masonry
+  - Spectacles (1.0.1)
+  - SVPullToRefresh (0.4.1)
+  - SWTableViewCell (0.3.7)
+  - SZTextView (1.2.1)
+  - TwitterCore (1.14.6):
+    - Fabric
+  - TwitterKit (1.14.6):
+    - TwitterCore (= 1.14.6)
+
+DEPENDENCIES:
+  - AFNetworking (= 2.4.0)
+  - DDProgressView (~> 0.1)
+  - EZAudio (~> 0.0.6)
+  - Fabric
+  - GPUImage
+  - IQKeyboardManager
+  - JSQMessagesViewController
+  - JXHTTP (~> 2.0)
+  - MBProgressHUD (~> 0.8)
+  - OHAttributedLabel
+  - PubNub (~> 4.0)
+  - SBJson (~> 4.0.1)
+  - SDWebImage (~> 3.6)
+  - SKTagView
+  - Spectacles (~> 1.0)
+  - SVPullToRefresh
+  - SWTableViewCell
+  - SZTextView
+  - TwitterCore
+  - TwitterKit
+
+SPEC CHECKSUMS:
+  AFNetworking: 0f2098992f4718b8d8e9c6ccf4634e1ccee44871
+  CocoaLumberjack: 17fe8581f84914d5d7e6360f7c70022b173c3ae0
+  DDProgressView: d5a8983e5585217ee58f4a046bb4038f6e1b6306
+  EZAudio: feb8e1c3ec17d8933bc2efc66b59ead1f2e79e54
+  Fabric: bf0ceb04e7c924090efc5f8c55e4fbcca189e0a0
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  JSQMessagesViewController: 73cab48aa92fc2d512f3b6724f3425cc47a19eb5
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  JXHTTP: 7e3fde3d226e865531703b0e4ea4b6e1c22d9b16
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  OHAttributedLabel: 9b2eb99323dee6b3a81ef3bc8e98b084117bca2d
+  PubNub: 5ee293038631fe3393a8cad2154f25a5d4dfd2b7
+  SBJson: c18691cc18375b14664ff0fec841f8c4faef1934
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SKTagView: 1e89c1ce2292cf890610901d3621c55d1ed82379
+  Spectacles: 8dc60711140320653724560e2d6bbb8a8f0940e4
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+  SZTextView: 906df45afd3c1b24fc5252088d5ef8061513c238
+  TwitterCore: 5e9b2d066ceeef53fe611c0c4436cb700f1ed620
+  TwitterKit: f67360ee0a5f935f053bf37015652ac157e4eb92
+
+COCOAPODS: 0.39.0

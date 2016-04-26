@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[HLChatViewController collectionView:attributedTextForMessageBubbleTopLabelAtIndexPath:]:HLChatViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.senderDisplayName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HLUserSearchViewController createChat:]:HLUserSearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "userInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

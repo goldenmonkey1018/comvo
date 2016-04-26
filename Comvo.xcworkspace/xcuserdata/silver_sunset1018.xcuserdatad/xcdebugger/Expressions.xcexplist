@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[HLDetailViewController viewDidLoad]:HLDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AudioFeedCell refreshTimer]:AudioFeedCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mAudioPlayer.currentTime">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AudioFeedCell onTouchBtnAudioPlay:]:AudioFeedCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HLDetailViewController onTouchPlayButton:]:HLDetailViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HLProfileViewController collectionView:numberOfItemsInSection:]:HLProfileViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseObject">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HLStreamViewController didTouchedThumbnail:]:HLStreamViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DDProgressView drawRect:]:DDProgressView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HLDetailViewController viewWillAppear:]:HLDetailViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mViewPhoto">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

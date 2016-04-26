@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[HLBroadcastViewController initNavigation]:HLBroadcastViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tabBarItem">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HLCameraViewController imagePickerController:didFinishPickingMediaWithInfo:]:HLCameraViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HLHomeTabBarController tabBarController:shouldSelectViewController:]:HLHomeTabBarController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[viewController restorationIdentifier]">
+            </PersistentString>
+            <PersistentString
+               value = "self.selectedIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HLAudioViewController microphone:hasAudioStreamBasicDescription:]:HLAudioViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[DDProgressView drawRect:]:DDProgressView.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[HLAudioViewController onTouchBtnDone:]:HLAudioViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self testFilePathURL]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__78-[HLCameraViewController imagePickerController:didFinishPickingMediaWithInfo:]_block_invoke:HLCameraViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[_info valueForKey: UIImagePickerControllerMediaURL]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HLCommentTableViewCell setCommentInfo:]:HLCommentTableViewCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.mCommentInfo.mComment">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
